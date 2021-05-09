@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>styles/sheet.txt</file>
-    </qresource>
-</RCC>
